@@ -1,0 +1,19 @@
+{
+    "name": "jesperandersen/todolist",
+    "description": "Lille projekt for Happydays",
+    "authors": [
+        {
+            "name": "Jesper Andersen",
+            "email": "jbandersen87@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload" : {
+        "psr-4": {
+            "JesperAndersen\\TodoList": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "~5"
+    }
+}
