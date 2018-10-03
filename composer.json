@@ -1,6 +1,7 @@
 {
     "name": "jesperandersen/todolist",
     "description": "Lille projekt for Happydays",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Jesper Andersen",
